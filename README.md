@@ -133,7 +133,7 @@ Real-time messaging app with optimised event-handling and structured data sync a
 
 <div align="center">
 
-![Rizwaan's GitHub Streak](https://streak-stats.demolab.com?user=Rizwaan-Max&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rizwaan-Max&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
