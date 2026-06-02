@@ -19,7 +19,6 @@ I'm a software engineering student building at the intersection of **DevOps**, *
 - 🔭 Currently working on: Cloud-native apps & ML pipelines
 - 🌱 Learning: Kubernetes, advanced AWS architecture
 - 📍 Based in Vellore, Tamil Nadu
-- 📄 CGPA: **8.23 / 10** at VIT Vellore
 - 📬 Reach me at **rizwaanf25@gmail.com**
 
 ---
@@ -54,9 +53,9 @@ I'm a software engineering student building at the intersection of **DevOps**, *
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| 🛒 **[Smart Shopping Cart](#)** *(Patented)* | Python · RFID · IIoT | 90% anomaly accuracy · Published patent · Full product lifecycle |
+| 🛒 **[Smart Shopping Cart]()** *(Patented)* | Python · RFID · IIoT | 90% anomaly accuracy · Published patent · Full product lifecycle |
 | 🎬 **[Cloud Media Streaming Platform](#)** | React · AWS S3 · CloudFront · EC2 | Scalable streaming · CI/CD deployment pipeline |
-| 🛡️ **[Self-Adaptive Hybrid IDPS](#)** | ML Ensemble · SHAP · Python | 98.12% accuracy · Adversarial training · Explainable AI |
+| 🛡️ **[Self-Adaptive Hybrid IDPS](https://github.com/Rizwaan-Max/IDPS)** | ML Ensemble · SHAP · Python | 98.12% accuracy · Adversarial training · Explainable AI |
 | 💬 **[Real-Time Chat App](#)** | Java · Android · Firebase | 40% latency reduction · 100+ concurrent users |
 | 📝 **[Multi-Platform Blogging CMS](#)** | Web · Android · Firebase | RBAC · Cross-platform real-time sync |
 
