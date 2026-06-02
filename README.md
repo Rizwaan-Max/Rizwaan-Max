@@ -133,19 +133,14 @@ Real-time messaging app with optimised event-handling and structured data sync a
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rizwaan-Max&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizwaan-Max&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=Rizwaan-Max)
 
-<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rizwaan-Max&show_icons=true)
 
-<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizwaan-Max&layout=compact)
 
-<img src="https://streak-stats.demolab.com?user=Rizwaan-Max&theme=tokyonight&hide_border=true"/>
-
-</div>
 ---
 
 <div align="center">
